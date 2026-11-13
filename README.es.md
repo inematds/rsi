@@ -10,6 +10,8 @@ Investigación verificada sobre la **automejora recursiva (RSI)**, a partir de l
 
 Landing + guía completa: **https://inematds.github.io/rsi/guia/es/**
 
+🎬 Video: https://www.youtube.com/shorts/u027vyREALY
+
 ## Estructura
 
 | Ruta | Contenido |
